@@ -2,7 +2,7 @@
 
 > A comprehensive reference on HTML Injection vulnerabilities for bug bounty hunters and web application penetration testers.
 
-**Author:** Rishu Rana | [@Rishu_2867](https://twitter.com/Rishu_2867) | [GitHub](https://github.com/rishurana-cyber)  
+**Author:** Rishu Rana | [@Rishu_2867](https://twitter.com/Rishu_2867) | [GitHub](https://github.com/Rishurana2867)  
 **Platforms:** HackerOne • Bugcrowd • YesWeHack
 
 ---
